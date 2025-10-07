@@ -8,9 +8,9 @@
 // from the command palette or from `Zed` application menu.
 {
   "proxy": "http://127.0.0.1:7890",
-  "ui_font_family": "Maple Mono CN",
+  "ui_font_family": "Maple Mono NF CN",
   "terminal": {
-    "font_family": "Maple Mono CN"
+    "font_family": "Maple Mono NF CN"
   },
   "file_types": {
     "typst": ["*.typ"]
